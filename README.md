@@ -13,5 +13,4 @@ I'm a Business Intelligence (BI) and Data Analytics professional passionate abou
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/matthew-cook-4a92627a/)
-)
 - Email: matthewcook755@gmail.com
