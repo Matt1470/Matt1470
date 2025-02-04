@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Matthew Cook 👋
 
 I'm a Business Intelligence (BI) and Data Analytics professional passionate about turning data into actionable insights. I specialize in data visualization, SQL, Python, and BI tools like Tableau and Power BI.
 
