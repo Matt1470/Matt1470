@@ -8,7 +8,7 @@ I'm a Business Intelligence (BI) and Data Analytics professional passionate abou
 - Data Visualization & Storytelling
 
 ## 📂 Featured Projects
-- [RFM Analysis on Zomato Data](https://github.com/Matt1470/Tripleten_RFM_Analysis)
+- [RFM Analysis on Zomato Data](https://github.com/Matt1470/Data_projects_TripleTen/tree/main/RFM_analysis_zomato)
 - [Data Science Ensemble Techniques](https://github.com/Matt1470/Ensemble_Techniques_Project_UT_PGP_DSBA)
 
 ## 📫 Connect with Me
