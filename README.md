@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm [Your Name] 👋
 
-<!--
-**Matt1470/Matt1470** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Business Intelligence (BI) and Data Analytics professional passionate about turning data into actionable insights. I specialize in data visualization, SQL, Python, and BI tools like Tableau and Power BI.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
+- Business Intelligence & Data Analytics
+- Python, SQL, Tableau, Power BI
+- Data Visualization & Storytelling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+- [RFM Analysis on Zomato Data](https://github.com/Matt1470/Tripleten_RFM_Analysis)
+- [Data Science Ensemble Techniques](https://github.com/Matt1470/Ensemble_Techniques_Project_UT_PGP_DSBA)
+
+## 📫 Connect with Me
+- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/matthew-cook-4a92627a/))
+- Email: matthewcook755@gmail.com
