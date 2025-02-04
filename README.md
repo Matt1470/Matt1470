@@ -12,5 +12,5 @@ I'm a Business Intelligence (BI) and Data Analytics professional passionate abou
 - [Data Science Ensemble Techniques](https://github.com/Matt1470/Ensemble_Techniques_Project_UT_PGP_DSBA)
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/matthew-cook-4a92627a/))
+- [LinkedIn](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/matthew-cook-4a92627a/)
 - Email: matthewcook755@gmail.com
